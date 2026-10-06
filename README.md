@@ -2,12 +2,12 @@
 
 B.Tech student in **Computer Science (Artificial Intelligence)** at Pranveer Singh Institute of Technology (PSIT), Kanpur · Class of 2029 · Based in Lucknow, India
 
-I like building practical software at the intersection of **AI, data and fintech**, and I'm learning by shipping projects and practising DSA regularly.
+I like building practical software at the intersection of **AI and Machine Learning **, and I'm learning by shipping projects and practising DSA regularly.
 
 ## 🔭 What I'm working on
 
 - **Fraud and risk detection:** a banking-oriented transaction monitoring system that flags risky transactions and fraud chains
-- **Hack in Hills hackathon:** anomaly detection across MCX gold-futures contracts (price-per-gram normalization, expiry-curve analysis, cost- and liquidity-aware alerts) *(repo coming soon)*
+- **AuraGold:** anomaly detection across MCX gold-futures contracts (price-per-gram normalization, expiry-curve analysis, cost- and liquidity-aware alerts) *(repo coming soon)*
 - Sharpening problem solving on LeetCode
 
 ## 🚀 Featured projects
