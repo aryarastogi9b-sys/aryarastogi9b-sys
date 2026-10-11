@@ -1,6 +1,6 @@
 # Hi, I'm Arya 👋
 
-B.Tech student in **Computer Science (Artificial Intelligence)** at Pranveer Singh Institute of Technology (PSIT), Kanpur · Class of 2029 · Based in Lucknow, India
+B.Tech student in **Computer Science (Artificial Intelligence)**
 
 I like building practical software at the intersection of **AI and Machine Learning **, and I'm learning by shipping projects and practising DSA regularly.
 
